@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/src/UsuarioAPI/src/UsuarioAPI/obj
+/src/UsuarioAPI/src/UsuarioAPI/bin
+/src/Infra/obj
+/src/Infra/bin
+/src/Domain/obj
+/src/Domain/bin
+/src/Core_Domain/obj
+/src/Core_Domain/bin
+/.vs/CRUD_AWSServerless/v17
+/src/Appication/obj
+/src/Appication/bin
